@@ -1,20 +1,7 @@
 /*
-[task_local]
-0-59/15 * * * * =聚看点, img-url=circles.hexagongrid.fill.system, enabled=true
-
-
-邀请码必填得金币 24511721
-
-hostname = *.xiaodouzhuan.cn
-##点任务获取数据##
-===========ql===========
-
-
+0-59/15 * * * *  kdf_jukandian.js
 */
-
-// [task_local]
-// 0-59/15 * * * * =聚看点, img-url=circles.hexagongrid.fill.system, enabled=true
-
+ 
 const $ = new Env('聚看点');
 let status;
 status = (status = ($.getval("jkdstatus") || "1") ) > 1 ? `${status}` : ""; // 账号扩展字符

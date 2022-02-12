@@ -5,7 +5,7 @@ IOS/安卓：都爱玩
 */
 
 const jsname = '都爱玩'
-const $ = Env(jsname)
+const $ = Env('都爱玩')
 
 const logDebug = 0
 
