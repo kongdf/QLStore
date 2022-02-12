@@ -1,6 +1,8 @@
 /*
+0-59/15 * * * * ? https://github.com/pangbai6/pang-bai.git/aiqicha.js 
  爱企查 
  环境变量： aqcCookies  @分割
+0-59/15 * * * *
 */
 const $ = new Env("爱企查日常任务");
 const axios = require("axios");
