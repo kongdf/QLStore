@@ -1,7 +1,7 @@
 /*
-IOS/安卓：都爱玩
-科技玩家  csdn都有教程 搜索旁白即可
-10 * * * *  douaiwan.js
+IOS/安卓：都爱玩 
+
+10 * * * *  kdf_douaiwan.js
 */
 
 const jsname = '都爱玩 by leaf '
