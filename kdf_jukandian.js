@@ -1,4 +1,8 @@
 /*
+[task_local]
+0-59/15 * * * * =聚看点, img-url=circles.hexagongrid.fill.system, enabled=true
+
+
 邀请码必填得金币 24511721
 
 hostname = *.xiaodouzhuan.cn
@@ -7,6 +11,7 @@ hostname = *.xiaodouzhuan.cn
 
 
 */
+
 // [task_local]
 // 0-59/15 * * * * =聚看点, img-url=circles.hexagongrid.fill.system, enabled=true
 

@@ -1,5 +1,7 @@
 /*
  网易云音乐
+ cron  0 0 0 * * *  kdf_music163.js
+
 */
 const $ = new Env('网易云音乐');
 let APIURL = 'http://api_music163.kongdf.com/'
