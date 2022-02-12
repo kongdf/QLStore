@@ -4,7 +4,7 @@ IOS/安卓：都爱玩
 10 * * * *  kdf_douaiwan.js
 */
 
-const jsname = '都爱玩 by leaf '
+const jsname = '都爱玩'
 const $ = Env(jsname)
 
 const logDebug = 0
