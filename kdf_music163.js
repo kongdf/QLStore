@@ -1,6 +1,6 @@
 /*
  网易云音乐
- cron  0 0 0 * * *  kdf_music163.js
+ 0 0 0 * * *  kdf_music163.js
 
 */
 const $ = new Env('网易云音乐');
